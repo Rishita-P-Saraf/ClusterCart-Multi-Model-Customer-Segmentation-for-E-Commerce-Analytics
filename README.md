@@ -1,4 +1,4 @@
-# E-Commerce Customer Segmentation Using Clustering
+# ClusterCart: Multi-Model Customer Segmentation for E-Commerce Analytics
 
 ## Table of Contents
 
